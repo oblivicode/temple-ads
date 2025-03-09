@@ -1,6 +1,6 @@
 
 
-<script src="https://poweredby.jads.co/js/jads.js" async strategy="lazyOnload" />
+<script src="https://poweredby.jads.co/js/jads.js" async></script>
         <script id="juicy-ads-config" type="text/javascript">
 juicy_adzone = '1044070';
 (adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1044053});
